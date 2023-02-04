@@ -6,3 +6,6 @@ age = 37
 number_of_monitors = 3
 pens = 1
 pencils = 1
+hours_on_phone = .0056666
+turing_money_spent = 1200.00
+turing_money_owed = 23800.00
