@@ -9,3 +9,7 @@ pencils = 1
 hours_on_phone = .0056666
 turing_money_spent = 1200.00
 turing_money_owed = 23800.00
+is_excited = true
+finished_session_1 = true
+partnered_up = true
+understands_everything = false
